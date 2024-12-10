@@ -1,0 +1,4 @@
+#myWordCloud span:hover {
+    transform: scale(1.2);
+    color: #ff5733;
+}
